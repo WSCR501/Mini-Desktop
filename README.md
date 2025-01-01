@@ -13,3 +13,6 @@
 
 > [!CAUTION]
 > 杀毒软件报毒请信任
+
+> [!TIPS]
+> 确保拥有自己账户以及Windows的administrator权限
