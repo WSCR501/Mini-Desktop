@@ -24,7 +24,7 @@
 
 ![屏幕截图 2025-01-11 145509](https://github.com/user-attachments/assets/a7fe1a20-84ab-4708-9bf4-d313df940c28)
 
-点按属性
+点按属性按钮
 
 ![屏幕截图 2025-01-11 145528](https://github.com/user-attachments/assets/08e0b82c-a4cc-4678-b4e5-67199bab5d8f)
 
@@ -32,7 +32,7 @@
 
 ![屏幕截图 2025-01-11 145533](https://github.com/user-attachments/assets/c0006014-f411-48cf-8443-4b854d3093bc)
 
-点击高DPI设置
+点击图上的高DPI设置
 
 ![屏幕截图 2025-01-11 145542](https://github.com/user-attachments/assets/f8e91e3d-b17a-4bce-a135-6e80facb722a)
 
